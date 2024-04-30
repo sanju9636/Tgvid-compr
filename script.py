@@ -62,16 +62,16 @@ Available commands:-
 ➜ To Set Thumbnail just send photo
 
 
-<b>⦿ Developer:</b> <a href=https://t.me/Want_To_Know_Mee>ѕησωвαℓℓ ❄️</a>
+<b>⦿ Developer:</b> <a href=https://t.me/Want_To_Know_Mee>ᶦτͫ𝒛⃪ͤ ꯭𝐒ʜɪᴠ𝆺꯭𝅥.ۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗۗ ༎𓆪─̶̶⃛͢🐼⛧‌ٖٖٖٖٖٖٜٖٖٖٖ ❄️</a>
 """
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : @{}
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Want_To_Know_Mee>𝓢𝓝𝓞𝓦𝓑𝓐𝓛𝓛</a>
-├👑 Instagram : <a href=https://www.instagram.com/sanjuu____03>C-Insta</a> 
-├☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Want_To_Know_Mee>K-Lᴀɴᴅ</a>
-├📕 Lɪʙʀᴀʀy : <a href=https://t.me/Want_To_Know_Mee>Pyʀᴏɢʀᴀᴍ</a>
-├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://t.me/Want_To_Know_Mee>Pyᴛʜᴏɴ 3</a>
-├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://t.me/Want_To_Know_Mee>Mᴏɴɢᴏ DB</a>
-├🌀 ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://t.me/Want_To_Know_Mee>Heroku</a>
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Want_To_Know_Mee>˹AD_Cᴏᴍᴘʀᴇssᴏʀ_Bᴏᴛ˼</a>
+├👑 Instagram : <a href=https://www.instagram.com/sanjuu____03>˹AD_Cᴏᴍᴘʀᴇssᴏʀ_Bᴏᴛ˼</a> 
+├☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Want_To_Know_Mee>˹AD_Cᴏᴍᴘʀᴇssᴏʀ_Bᴏᴛ˼</a>
+├📕 Lɪʙʀᴀʀy : <a href=https://t.me/Want_To_Know_Mee>˹AD_Cᴏᴍᴘʀᴇssᴏʀ_Bᴏᴛ˼</a>
+├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://t.me/Want_To_Know_Mee>˹AD_Cᴏᴍᴘʀᴇssᴏʀ_Bᴏᴛ˼</a>
+├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://t.me/Want_To_Know_Mee>˹AD_Cᴏᴍᴘʀᴇssᴏʀ_Bᴏᴛ˼</a>
+├🌀 ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://t.me/Want_To_Know_Mee>˹AD_Cᴏᴍᴘʀᴇssᴏʀ_Bᴏᴛ˼</a>
 ╰───────────────⍟ """
