@@ -23,7 +23,7 @@
 
 `Heroku`
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MysteryDemon/TGVid-Comp/)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sanju9636/Tgvid-compr/)
 
 
 ## Commands
@@ -65,6 +65,6 @@ variables for indirectly deployment.
 
 # Support Us By Joining Our Channels
 
-`Updates Channel` - [Rokubotz](https://t.me/Rokubotz)
+`Updates Channel` - [Nobi](https://t.me/Want_To_Know_Mee)
 
-`Support Group` - [Team Roku](https://t.me/Team_Roku)
+`Support Group` - [Team Nobi](https://t.me/Want_To_Know_Mee)
