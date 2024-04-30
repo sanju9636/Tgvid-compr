@@ -1,7 +1,7 @@
 {
     "name": "Advance Compressor Bot",
     "description": "Telegram File Compressor Bot ",
-    "logo": "https://graph.org/file/f118d554265c3e339c84f.jpg",
+    "logo": "https://graph.org/file/28a6eaa080f619c8d55cf.jpg",
     "keywords": ["Encoder Bot", "Mongo DB", "Telegram","python", "Video","Compressor","Encoder"],    
     "repository": "https://github.com/Snowball-0/SnowEncoderBot",
     "success_url": "",
